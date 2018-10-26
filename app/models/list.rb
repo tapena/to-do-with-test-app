@@ -40,4 +40,5 @@ class List < ApplicationRecord
     end
     return array_of_tasks
   end
+
 end
